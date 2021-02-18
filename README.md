@@ -12,3 +12,13 @@
     FPE with node.js. FPR. FPE with node.js.
     Puny with node.js. Puny. Puny character format with node.js.
     Merkle Tree with node.js. Merkle. Merkle Tree with node.js.
+And some JavaScript crypto examples:
+
+    Random number generator. Rand. Random number generator
+    AES. AES. AES encryption
+    Hash. Hash. Hashing using JavaScript
+    RSA. RSA. RSA using JavaScript
+    Password generation/hashing. Hashing. Password generation/hashing using JavaScript
+    CMS. CMS. Encapsulating with CMS
+    ECDH. ECDH. Elliptic Curve Diffie Hellman
+    PATRICIA trie. PATRICIA. Example of using PATRICIA (and which is used in Ethereum).
